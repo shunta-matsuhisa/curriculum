@@ -1,0 +1,22 @@
+3章課題1
+(1)MACアドレス：
+AAAA.AAAA.AAAA
+AA AA AA FF FE AA AA AA
+10101010 AA AA FF FE AA AA AA
+10101000 AA AA FF FE AA AA AA
+                                   A8 AA AA FF FE AA AA AA
+
+
+
+(2)MACアドレス：9876.5432.10FE
+98 76 54  FF FE 32 10 FE
+1001 0100 76 54 FF FE 32 10 FE
+1001 0110 76 54 FF FE 32 10 FE
+                                   96 76 54 FF FE 32 10 FE
+
+
+
+(3)MACアドレス：FFFF.FFFF.FFFF
+1111 1111 FF FF FF FE FF FF FF
+1111 1101 FF FF FF FE FF FF FF
+                                   FD FF FF FF FE FF FF FF
